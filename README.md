@@ -1,7 +1,7 @@
 # HS-Harz-Plakate
 
 Aufgabe:
-Jede\*r Teilnehmer\*in gestaltet drei Plakate im Format DIN A1 (Hochformat).
+Jede\*r Teilnehmer\*in gestaltet drei Plakate im Format DIN A1 (Hochformat) Druck-Pdfs.
 
 1. Ein Filmplakat zu einem frei wählbaren, real existierenden Film (kein Zeichentrickfilm).
 Die gewählte Aussage über den Film ist nur mit geometrischen Formen (Kreis, Linie, Rechteck, Dreieck, Trapez) und Farben zu gestalten.
