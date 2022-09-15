@@ -18,9 +18,9 @@ Die Zitate, aus denen Sie eins auswählen können, werden gestellt.
 Abgaben:
 
 <a href="https://jgrnrt.github.io/HS-Harz-Plakate/plakat1.pdf" target="_blank">Plakat 1</a>
+<a href="https://jgrnrt.github.io/HS-Harz-Plakate/plakat2.pdf" target="_blank">Plakat 2</a>
+<a href="https://jgrnrt.github.io/HS-Harz-Plakate/plakat3.pdf" target="_blank">Plakat 3</a>
 
-Plakat 2
+<a href="https://jgrnrt.github.io/HS-Harz-Plakate/analyse.pdf" target="_blank">Dokumentation/Analyse</a>
 
-Plakat 3
 
-Dokumentation/Analyse
