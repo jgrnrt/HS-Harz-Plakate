@@ -14,3 +14,13 @@ Dies wird ergänzt durch den Titel des Films, das Erscheinungsjahr, Name des/der
 
 3. Ein Plakat, das ein Zitat einer Gestalterpersönlichkeit zeigt und neben der Typografie nur noch geometrische Formen (Kreis, Linie, Rechteck, Dreieck, Trapez) für die Gestaltung nutzt. Die Farben und Schriften sind frei wählbar, es dürfen aber nur maximal zwei unterschiedliche Schriftfamilien für das Plakat genutzt werden.
 Die Zitate, aus denen Sie eins auswählen können, werden gestellt.
+
+Abgaben:
+
+<a href="https://jgrnrt.github.io/HS-Harz-Plakate/plakat1.pdf" target="_blank">Plakat 1</a>
+
+Plakat 2
+
+Plakat 3
+
+Dokumentation/Analyse
